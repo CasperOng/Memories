@@ -1,0 +1,22 @@
+title: Multiverse by HTML5 UP
+author: João Neto
+email: joao@neto.pt
+description: >-
+  Description Will Show here
+
+social:
+  twitter: [Private-Twitter]
+  facebook: [Private-FaceBook]
+  instagram: therealcasperhk
+  github: casperong
+  linkedin:
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
